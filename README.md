@@ -44,27 +44,27 @@ Trang web cho phép:
 Dưới đây là một số giao diện chính của website **Minine Accessories**:
 
 ### 🧑‍💻 Giao diện trang chủ (index)
-![Trang chủ](Accessories_store/BaoCao/images_rb/index.png)
+![Trang chủ](./BaoCao/images_rb/index.png)
 
 ---
 
 ### 🛒 Giao diện trang sản phẩm
-![Trang sản phẩm](Accessories_store/BaoCao/images_rb/sanpham.png)
+![Trang sản phẩm](./BaoCao/images_rb/sanpham.png)
 
 ---
 
 ### 📥 Giao diện trang thanh toán
-![Trang thanh toán](Accessories_store/BaoCao/images_rb/thanhtoan.png)
+![Trang thanh toán](./BaoCao/images_rb/thanhtoan.png)
 
 ---
 
 ### 🗂️ Giao diện quản lý sản phẩm (Admin)
-![Quản lý sản phẩm](Accessories_store/BaoCao/images_rb/qlsanpham.png)
+![Quản lý sản phẩm](./BaoCao/images_rb/qlsanpham.png)
 
 ---
 
 ### 🧑‍💼 Giao diện quản trị viên
-![Quản trị viên](Accessories_store/BaoCao/images_rb/admin.png)
+![Quản trị viên](./BaoCao/images_rb/admin.png)
 
 ---
 
